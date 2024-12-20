@@ -19,10 +19,10 @@ Combining traditional mouse work with modern tablet technology, I bring pixel ar
 
 ## Resources  
 Discover more about my work across the web:  
-- **Website:** [Arijkx Pixels Portfolio](https://www.arijkx-pixels.com)  
+- **Website:** [Arijkx Pixels Portfolio]()  
 - **Twitch:** [Live streams of my creative process](https://www.twitch.tv/arijkx)  
-- **Twitter/X:** [Weekly updates and sneak peeks](https://twitter.com/arijkx)  
-- **Instagram:** [Pixel art and project showcases](https://instagram.com/arijkx)  
+- **Twitter/X:** [Weekly updates and sneak peeks](https://twitter.com/arijkx_)  
+- **Instagram:** [Pixel art and project showcases](https://instagram.com/arijkx_)  
 - **Itch.io Store:** [Free and premium assets](https://arijkx.itch.io)  
 
 ---
